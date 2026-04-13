@@ -48,7 +48,7 @@ Validación de entradas del usuario.
 
 Generación de jugada aleatoria por parte de la IA. 
 
-Contador de puntuación (Best of 3/5). 
+Contador de puntuación (gana el primero en llegar a 3 puntos)
 
  
 
